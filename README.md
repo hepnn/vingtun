@@ -2,7 +2,7 @@
 
 A production ready cross platform blackjack game 
 
-** Features **
+## Features
 - In-App purchases
 - Google Ads
 - Firebase analytics & crashlytics
@@ -12,7 +12,7 @@ A production ready cross platform blackjack game
 - Language switch
 - In-game money system
 
-** TODO ** 
+## TODO
 - Migrate to riverpod
 - Improve blackjack algorithm
 - Write Unit tests
