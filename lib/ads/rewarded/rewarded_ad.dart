@@ -10,8 +10,8 @@ class AdManager {
   void loadRewardedAd() {
     RewardedAd.load(
         adUnitId: Platform.isIOS
-            ? "ca-app-pub-3940256099942544/1712485313"
-            : "ca-app-pub-3940256099942544/5224354917",
+            ? "" // enter your own key
+            : "", // ^
         request: const AdRequest(),
         rewardedAdLoadCallback:
             RewardedAdLoadCallback(onAdLoaded: (RewardedAd ad) {
