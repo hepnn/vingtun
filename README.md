@@ -1,16 +1,20 @@
 # vingtun
 
-A new Flutter project.
+A production ready cross platform blackjack game 
 
-## Getting Started
+** Features **
+- In-App purchases
+- Google Ads
+- Firebase analytics & crashlytics
+- Dynamic theme mode
+- Sound FX & Music
+- Daily local notifications
+- Language switch
+- In-game money system
 
-This project is a starting point for a Flutter application.
+** TODO ** 
+- Migrate to riverpod
+- Improve blackjack algorithm
+- Write Unit tests
+- Cleaner architecture
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
