@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "896873111788",
+    "project_id": "vingtun-f8009",
+    "storage_bucket": "vingtun-f8009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896873111788:android:315abaf3fe38eec19d45c9",
+        "android_client_info": {
+          "package_name": "com.yamawagi.vingtun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896873111788-pm3jbpeoknllgbmu0okimc365lv24uj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn6OlViVtoWC-P3AufEB0K1cWhNzPIGaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896873111788-pm3jbpeoknllgbmu0okimc365lv24uj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896873111788:android:65ae40e8f08961619d45c9",
+        "android_client_info": {
+          "package_name": "com.yamawagi.vingtun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896873111788-pm3jbpeoknllgbmu0okimc365lv24uj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn6OlViVtoWC-P3AufEB0K1cWhNzPIGaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896873111788-pm3jbpeoknllgbmu0okimc365lv24uj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
