@@ -23,7 +23,7 @@ A production ready cross platform blackjack game
 
 ## How to run
 - Initialize firebase
-[In-App purchase documentation]: https://developer.android.com/google/play/billing
+- [In-App purchase documentation] (https://developer.android.com/google/play/billing)
   - Under Monetise, add In-App products
 - Add your own AdMob id's at lib/ads/rewarded/adunit.dart
 
